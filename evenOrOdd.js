@@ -1,13 +1,12 @@
 function evenOrOdd(number) {
       if (number % 2 === 0) {
 
-        return "is even"
+        return "Even"
       }  
       else {
 
-        return "is odd"
+        return "Odd"
       }
          };
     
 
-         console.log(evenOrOdd(3));
