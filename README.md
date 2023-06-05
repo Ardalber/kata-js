@@ -1,4 +1,0 @@
-# kata-js
-
-### kata multiply
-
